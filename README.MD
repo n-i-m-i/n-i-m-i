@@ -2,16 +2,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-nimi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/toluwanimi-ibukun-odunsi-9a769a169](https://www.linkedin.com/in/toluwanimi-ibukun-odunsi-9a769a169))](https://www.linkedin.com/in/toluwanimi-ibukun-odunsi-9a769a169) [![Twitter Badge](https://img.shields.io/badge/-@TheOnlyNimi-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=[https://twitter.com/TheOnlyNimi](https://twitter.com/TheOnlyNimi))]([https://twitter.com/schnoookumss](https://twitter.com/TheOnlyNimi))
 
-I'm a Software Engineer, Psychology student, and an avid reader. I'm passionate about sharing knowledge, documentation, web engineering, and others.
+I'm a Software Engineer at Gricd Integrated Agro-Allied Services. I'm passionate about sharing knowledge, Software/Hardware engineering, and others.
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs and Open source.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing zeerahhsimon@gmail.com.
+- 😊 Pronouns: He/Him
+- 🌱 I’m currently a JavaScript, C/C++ developer.
+- 😊 I’m looking for help with open source projects, hackathons, amongst other opportunities.
+- 💼 Job interests: Software Engineer, Backend Engineer.
+- 📫 You can [view my resume](https://docs.google.com/document/d/10YbKgPq8g2sOj3X4mETT_bn_ILuHyROO/edit?usp=sharing&ouid=116648695553061576370&rtpof=true&sd=true) and contact me by emailing ibukunoluwadunsi@gmail.com.
 
 ---
 
