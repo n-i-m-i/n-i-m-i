@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-nimi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/toluwanimi-ibukun-odunsi-9a769a169](https://www.linkedin.com/in/toluwanimi-ibukun-odunsi-9a769a169))](https://www.linkedin.com/in/toluwanimi-ibukun-odunsi-9a769a169) [![Twitter Badge](https://img.shields.io/badge/-@schnoookumss-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/schnoookumss)](https://twitter.com/schnoookumss)
+[![Linkedin Badge](https://img.shields.io/badge/-nimi-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/toluwanimi-ibukun-odunsi-9a769a169](https://www.linkedin.com/in/toluwanimi-ibukun-odunsi-9a769a169))](https://www.linkedin.com/in/toluwanimi-ibukun-odunsi-9a769a169) [![Twitter Badge](https://img.shields.io/badge/-@TheOnlyNimi-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=[https://twitter.com/TheOnlyNimi](https://twitter.com/TheOnlyNimi))]([https://twitter.com/schnoookumss](https://twitter.com/TheOnlyNimi))
 
 I'm a Software Engineer, Psychology student, and an avid reader. I'm passionate about sharing knowledge, documentation, web engineering, and others.
 
