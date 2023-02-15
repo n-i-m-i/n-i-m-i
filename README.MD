@@ -24,8 +24,8 @@
 ### Stats & Technology Stack
 
 <p>
-  <!-- <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=iamug&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamug&langs_count=6&hide=javascript,scss,less,ejs,css,html&layout=compact&theme=dark"/>
+  <!-- <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimi-io&langs_count=10&layout=compact&theme=dark"/> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimi-io&langs_count=6&count_private=true&hide=php,python,css,html,c,Batchfile,Assembly,c%2B%2B,scss,go,makefile&layout=compact&theme=radical"/>
   <p>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />   
 <img alt="Nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />   
@@ -50,9 +50,5 @@
 
 <!-- <br />
 
-#### Stats
-<div style="display:flex;">
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimi-io&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats"/>
-</p>
+
 
