@@ -28,7 +28,9 @@
 <p>
   <!-- <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimi-io&langs_count=10&layout=compact&theme=dark"/> -->
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimi-io&langs_count=7&count_private=true&hide=php,c,Batchfile,Assembly,c%2B%2B,scss,makefile&layout=compact&theme=radical"/>
-  <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamug&langs_count=6&hide=javascript,scss,less,ejs,css,html&layout=compact&theme=dark"/>
+ 
+<p>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />   
 <img alt="Nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />   
 <img alt="Express" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />   
