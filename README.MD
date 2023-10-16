@@ -27,9 +27,10 @@
 
 <p>
   <!-- <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimi-io&langs_count=10&layout=compact&theme=dark"/> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimi-io&langs_count=7&count_private=true&hide=php,c,Batchfile,Assembly,c%2B%2B,scss,makefile&layout=compact&theme=radical"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimi-io&langs_count=8&count_private=true&hide=php,c,Batchfile,Assembly,c%2B%2B,scss,makefile&layout=compact&theme=radical"/>
 <p>
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />   
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />  
+<img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="Nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />   
 <img alt="Express" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />   
 <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -43,7 +44,6 @@
  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
 <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
 <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-droplet%20.svg?style=for-the-badge&logo=digitalocean&"/>
-<img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
   </p>
 </p>
 
