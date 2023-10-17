@@ -13,7 +13,7 @@
 
 **Here's a quick summary about me**:
 - 😊 Pronouns: He/Him
-- 🌱 I’m currently a Typescript, JavaScript, C/C++ developer.
+- 🌱 I’m currently a Typescript, JavaScript, Golang, C/C++ developer.
 - 😊 I’m looking for help with open source projects, hackathons, amongst other opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer.
 - 📫 You can [view my resume](https://docs.google.com/document/d/1H2R6EIeDXhbrjmEruQIN1DE4SjSOU6ZB/edit?usp=sharing&ouid=116648695553061576370&rtpof=true&sd=true) and contact me by emailing ibukunoluwadunsi@gmail.com.
