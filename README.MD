@@ -27,7 +27,7 @@
 
 <p>
   <!-- <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimi-io&langs_count=10&layout=compact&theme=dark"/> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimi-io&langs_count=8&count_private=true&show=go&hide=php,html,c,Batchfile,Assembly,c%2B%2B,scss,makefile&layout=compact&theme=radical"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimi-io&langs_count=8&count_private=true&show=go&hide=php,html,css,c,Batchfile,Assembly,c%2B%2B,scss,makefile&layout=compact&theme=radical"/>
 <p>
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />  
 <img alt="GO" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
